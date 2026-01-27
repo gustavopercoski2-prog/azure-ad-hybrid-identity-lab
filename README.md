@@ -61,7 +61,7 @@ O projeto está sendo desenvolvido por fases, para facilitar o entendimento e a 
 - Sincronização usando **Password Hash Synchronization (PHS)**
 - Testes de sincronização de usuários e grupos (AD local → Azure)
 
-### ⏳ Fase 4 – Automação
+### ✅ Fase 4 – Automação *(concluída)*
 - Script PowerShell para **onboarding** de usuários:
   - Criação no AD
   - Definição de senha inicial
