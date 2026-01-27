@@ -56,7 +56,7 @@ O projeto está sendo desenvolvido por fases, para facilitar o entendimento e a 
 - Configuração inicial do Microsoft Entra ID
 - Criação de grupos e validação de permissões básicas
 
-### ⏳ Fase 3 – Integração Híbrida
+### ✅ Fase 3 – Integração Híbrida *(concluída)*
 - Instalação e configuração do **Azure AD Connect**
 - Sincronização usando **Password Hash Synchronization (PHS)**
 - Testes de sincronização de usuários e grupos (AD local → Azure)
