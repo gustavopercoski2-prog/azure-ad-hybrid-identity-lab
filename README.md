@@ -44,14 +44,14 @@ Esse cenário reflete bastante a realidade de empresas que ainda dependem de AD 
 ## 🚀 Etapas do projeto
 O projeto está sendo desenvolvido por fases, para facilitar o entendimento e a organização.
 
-### ✅ Fase 1 – Infraestrutura Local
+### ✅ Fase 1 – Infraestrutura Local *(concluída)*
 - Criação da VM com Windows Server 2022
 - Promoção do servidor a **Domain Controller**
 - Configuração de DNS
 - Criação da estrutura de **OUs**
 - Criação de usuários e grupos locais
 
-### ⏳ Fase 2 – Identidade na Nuvem
+### ✅ Fase 2 – Identidade na Nuvem *(concluída)*
 - Criação do tenant no Microsoft Azure
 - Configuração inicial do Microsoft Entra ID
 - Criação de grupos e validação de permissões básicas
