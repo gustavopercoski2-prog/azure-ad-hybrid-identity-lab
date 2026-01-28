@@ -1,6 +1,6 @@
 # ☁️ Azure & Active Directory Hybrid Identity Lab
 
-> **Status:** 🚧 Projeto em desenvolvimento
+> **Status:** 🚧 Projeto concluído ✅
 
 ---
 
@@ -37,7 +37,10 @@ Esse cenário reflete bastante a realidade de empresas que ainda dependem de AD 
 ---
 
 ## 🗺️ Arquitetura do laboratório
-*(O diagrama da arquitetura será adicionado em breve, mostrando a integração entre o Active Directory local e o Microsoft Entra ID por meio do Azure AD Connect.)*
+
+O diagrama abaixo representa a arquitetura do laboratório, destacando a integração entre o Active Directory local (Windows Server 2022) e o Microsoft Entra ID por meio do Azure AD Connect, utilizando sincronização de hash de senha.
+
+<img width="812" height="654" alt="Diagrama Arquitetura do Lab" src="https://github.com/user-attachments/assets/89943138-fded-45c9-aa3d-8f3865f50e7a" />
 
 ---
 
