@@ -72,12 +72,22 @@ O projeto está sendo desenvolvido por fases, para facilitar o entendimento e a 
 
 ---
 
-## 📸 Evidências
-Nesta seção serão adicionadas capturas de tela do ambiente configurado, como:
-- Active Directory Users and Computers
-- Estrutura de OUs e grupos
-- Portal do Microsoft Entra ID
-- Logs de sincronização do Azure AD Connect
+## 📸 Evidências do Laboratório
+
+### 1. Estrutura Local (Active Directory)
+<img width="755" height="533" alt="AD_users_and_computers" src="https://github.com/user-attachments/assets/8f611521-4102-4a20-a670-4abee03f7460" />
+<br>
+<em>Fig 1: Console do AD Users and Computers mostrando a estrutura de OUs (Enterprise/RH) e o usuário 'Roberto Justus' criado via script.</em>
+
+### 2. Prova de Sincronização (Microsoft Entra ID)
+<img width="1365" height="648" alt="Portal do Microsoft ENTRA ID" src="https://github.com/user-attachments/assets/57e5320f-7621-4105-b736-88cb2894bea5" />
+<br>
+<em>Fig 2: Portal do Entra ID confirmando que o usuário 'Roberto Justus' foi sincronizado com sucesso (Sincronização: Sim).</em>
+
+### 3. Logs Técnicos (Azure AD Connect)
+<img width="805" height="602" alt="Logs de Sicronização" src="https://github.com/user-attachments/assets/de7fd612-f551-4333-afc4-9fc17775002b" />
+<br>
+<em>Fig 3: Synchronization Service Manager mostrando operações de Exportação e Sincronização com status 'Success'.</em>
 
 ---
 
